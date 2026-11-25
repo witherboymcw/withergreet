@@ -1,0 +1,86 @@
+blocks:
+  1:
+    - minecraft:iron_axe
+    - minecraft:iron_hoe
+    - minecraft:iron_pickaxe
+    - minecraft:iron_shovel
+    - minecraft:iron_sword
+    - minecraft:chain
+    - minecraft:shield
+    - minecraft:iron_trapdoor
+    - minecraft:damaged_anvil
+    - minecraft:heavy_weighted_pressure_plate
+    - minecraft:smithing_table
+    - minecraft:trapped_chest
+    - minecraft:blast_furnace
+    - minecraft:shears
+    - minecraft:piston
+    - minecraft:sticky_piston
+
+  2:
+    - minecraft:iron_door
+    - minecraft:iron_boots
+    - minecraft:iron_helmet
+    - minecraft:chipped_anvil
+    - minecraft:hopper
+    - minecraft:compass
+    - minecraft:iron_door
+
+  3:
+    - minecraft:leggings
+    - minecraft:anvil
+    - minecraft:cauldron
+
+  4:
+    - minecraft:iron_trapdoor
+
+  5:
+    - minecraft:iron_horse_armor
+    - minecraft:minecart
+    - minecraft:chest_minecart
+    - minecraft:furnace_minecart
+    - minecraft:tnt_minecart
+  6:
+
+  
+  7:
+
+  
+  8:
+
+  
+  9:
+
+    
+ingots:
+  1:
+
+
+  2:
+    - minecraft:iron_bars
+    - minecraft:rail
+    - minecraft:activator_rail
+    - minecraft:detector_rail
+
+  3:
+
+
+  4:
+
+  
+  5:
+    - minecraft:flint_and_steel
+    - minecraft:tripwire_hook
+    - minecraft:crossbow
+    - minecraft:lantern
+
+  6:
+
+  
+  7:
+
+  
+  8:
+
+
+  9:

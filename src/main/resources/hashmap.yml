@@ -1,0 +1,42 @@
+aliases:
+  smithtable: smithingtable
+  esmithtable: smithingtable
+  esmithingtable: smithingtable
+
+  carttable: cartographytable
+  ecarttable: cartographytable
+  ecartographytable: cartographytable
+
+  ec: enderchest
+  echest: enderchest
+  endersee: enderchest
+  eec: enderchest
+  eechest: enderchest
+  eendersee: enderchest
+  eenderchest: enderchest
+
+  eat: feed
+  eeat: feed
+  efeed: feed
+
+  fix: repair
+  efix: repair
+  erepair: repair
+
+  egrindstone: grindstone
+
+  eheal: heal
+
+  homes: home
+  ehome: home
+  ehomes: home
+
+  eloom: loom
+
+  estonecutter: stonecutter
+
+  call: tpa
+  tpask: tpa
+  etpa: tpa
+  ecall: tpa
+  etpask: tpa

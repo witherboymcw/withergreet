@@ -1,0 +1,65 @@
+# Whether to automatically run /withergreet reload when /reload is executed
+autoReload: true
+
+# Whether players get a greeting broadcast when they join
+joinGreetingEnabled: true
+
+# Whether player deaths trigger WitherGreet death reactions
+deathGreetingEnabled: true
+
+# Whether the vanilla death message should be hidden when death reactions are enabled
+suppressVanillaDeathMessage: true
+
+# Whether player commands trigger reactions from lang/<language>.yml under commands.<commandName>
+commandReactionsEnabled: true
+
+# Active greet command names.
+# These should match commands that are registered in plugin.yml, so this currently works with: greet, hi, hello
+greetCommandNames:
+  - "greet"
+  - "hi"
+  - "hello"
+
+# Selector policy for non-OP players using /language
+allowNonOpSelfSelector: true
+allowNonOpNearestSelector: true
+allowNonOpOwnNameSelector: true
+allowNonOpLanguageCopy: true
+
+# The commands executed by the console when a greeting event occurs
+consoleGreetCommands:
+  - "tellraw @a [{\"selector\":\"@a\",\"color\":\"yellow\",\"separator\":{\"text\":\", \",\"color\":\"white\"},\"last_separator\":{\"text\":\" and \",\"color\":\"white\"}},{\"text\":\"\\nType /hi, /hello, /greet to say hi to the server <3\",\"color\":\"white\"},{\"text\":\"\\nGõ lệnh /hi, /hello, /greet để gửi lời chào nhé <3\",\"color\":\"aqua\"}]"
+  - "say The console is checking if the plugin is working fine, which it is! Hello console :D"
+
+# The X coordinate for the spawn location
+coordinateSpawnX: 0
+
+# The Y coordinate for the spawn location
+coordinateSpawnY: 64
+
+# The Z coordinate for the spawn location
+coordinateSpawnZ: 0
+
+# The name of the world where the spawn coordinates are located
+coordinateSpawnWorld: world
+
+# Enable or disable debug mode for detailed logging in the console
+debug: false
+
+# The default language used by the plugin
+defaultLanguage: english
+
+# Message displayed when the plugin is disabled
+disableMessage: "WitherGreet disabled."
+
+# Message displayed when the plugin is enabled
+enableMessage: "WitherGreet enabled."
+
+# The list of available commands shown in the help menu
+helpList: "\n/hi, /hello, /greet, /withergreet\n/tpspawn\n/language <language | default | what | current | info>\n/withergreet <reload|help>"
+
+# Instruction message for the correct usage of the language command
+languageUsage: "Usage: /language <language>\n/language <player> <language>"
+
+# Message displayed when the plugin configuration is reloaded
+reloadMessage: "WitherGreet reloaded."

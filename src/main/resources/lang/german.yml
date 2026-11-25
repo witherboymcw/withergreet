@@ -1,0 +1,420 @@
+greetings:
+  - 'Wilkommen im der Wahnsinn, &e%player%&r!'
+  - 'Achtung, &e%player%&r ist da!'
+  - 'Hab dich vermisst, &e%player%&r!'
+  - '&e%player%&r, was machst du hier?'
+  - '&e%player%&r, leg los!' # "%player%, triển thôi!"
+  - '&e%player%&r, du Legende!' # "%player%, huyền thoại đây rồi!"
+  - '&e%player%&r, sehr schön dich zu sehen!' # "Gặp ông vui phết!"
+  - '&e%player%&r, willkommen zurück!' # "Mừng %player% trở lại!"
+  - '&e%player%&r, schon wieder hier?'
+  - '&e%player%&r, Wilkommen im der Club!'
+  - '&e%player%&r, alles im Lot?'
+  
+# Format: State
+  - '&e%player%&r ist am Start!' # "Đã sẵn sàng ở vạch xuất phát!"
+  - '&e%player%&r hat sich reingeschlichen!' # "Vừa mới lén lút lẻn vào!"
+  - '&e%player%&r ist aus dem Himmel gefallen!' # "Vừa rơi từ trên trời xuống!"
+  - '&e%player%&r Beitritt im die Arena!' # "Đã bước vào đấu trường!"
+  - '&e%player%&r ist gelandet!' # "Đã hạ cánh!"
+  - '&e%player%&r ist endlich wach!' # "Cuối cùng thì cũng tỉnh ngủ để vào game!"
+  - '&e%player%&r hat sich materialisiert!' # "Vừa mới hiển linh!"
+  - '&e%player%&r ist wieder am Start!' # "Đã trở lại cuộc chơi!"
+  - '&e%player%&r ist jetzt auf dem Server!' # "Hiện đang ở trên server!"
+  - '&e%player%&r ist aktiv, Vorsicht geboten!' # "Đã kích hoạt, mọi người cẩn thận!"
+  - '&e%player%&r hat die Verbindung aufgebaut!' # "Đã thiết lập kết nối!"
+  - '&e%player%&r ist jetzt offiziell dabei!' # "Chính thức có mặt!"
+  - '&e%player%&r ist hier, um zu bleiben!' # "Đến đây và sẽ không đi đâu hết!"
+  - '&e%player%&r hat den Server betreten!' # "Đã bước vào server!"
+  - '&e%player%&r ist nun offiziell anwesend!' # "Chính thức hiện diện!"
+  - '&e%player%&r hat die Grenze überschritten!' # "Vừa mới vượt biên!"
+  - '&e%player%&r ist in Bewegung!' # "Đang bắt đầu di chuyển!"
+  - '&e%player%&r hat das Siegel gebrochen!' # "Vừa mới phá phong ấn!"
+  - '&e%player%&r patrouilliert jetzt!' # "Hiện đang đi tuần tra!"
+  - '&e%player%&r ist fertig mit Laden!' # "Đã tải xong!"
+  - '&e%player%&r steht bereit!' # "Đang đứng chờ lệnh!"
+  - '&e%player%&r hat seinen Platz beansprucht!' # "Đã chiếm được chỗ!"
+  - '&e%player%&r ist in der Basis angekommen!' # "Đã về tới căn cứ!"
+  - '&e%player%&r hat die Welt betreten!' # "Đã bước vào thế giới này!"
+  
+# Format: Spotlight
+  - 'Seht her, &e%player%&r stürzt sich ins Getümmel!' # "Nhìn kìa, %player% lao vào hỗn chiến!"
+  - 'Erblickt &e%player%&r, wie er erscheint!' # "Chiêm ngưỡng sự xuất hiện của %player%!"
+  - 'Platz da für &e%player%&r!' # "Dạt ra cho %player% đi!"
+  - 'Macht den Weg frei für &e%player%&r!' # "Mở đường cho %player%!"
+  - 'Applaus für &e%player%&r beim Betreten!' # "Tràng pháo tay cho màn xuất hiện của %player%!"
+  - 'Alle Augen auf &e%player%&r!' # "Mọi ánh mắt đổ dồn vào %player%!"
+  - 'Macht euch bereit für &e%player%&r!' # "Chuẩn bị tinh thần đón %player% đi!"
+  - 'Tretet zurück, &e%player%&r ist hier!' # "Lùi lại, %player% tới rồi!"
+  - 'Kniet nieder vor &e%player%&r!' # "Quỳ xuống trước %player%!"
+  - 'Jubelt für &e%player%&r!' # "Reo hò cho %player% nào!"
+  - 'Folgt &e%player%&r in die Schlacht!' # "Theo chân %player% vào trận chiến!"
+  - 'Salutiert vor &e%player%&r!' # "Chào (kiểu quân đội) %player%!"
+  - 'Rollt den roten Teppich aus für &e%player%&r!' # "Trải thảm đỏ cho %player%!"
+  - 'Entfesselt &e%player%&r!' # "Giải phóng sức mạnh của %player%!"
+  - 'Teleportiere &e%player%&r zur Party!' # "Dịch chuyển %player% tới bữa tiệc!"
+  - '&e%player%&r wird eingesetzt!' # "Đang triển khai %player%!"
+  - '&e%player%&r wird gestartet!' # "Đang phóng %player% đi!"
+  - 'Erlebe die Macht von &e%player%&r!' # "Trải nghiệm sức mạnh của %player%!"
+  - 'Beobachtet &e%player%&r in seinem Element!' # "Quan sát %player% trong môi trường tự nhiên!"
+  - '&e%player%&r wird getrackt!' # "Đang theo dấu sự xuất hiện của %player%!"
+  - 'Darf ich vorstellen: &e%player%&r!' # "Xin giới thiệu: %player%!"
+  - 'Eskortiere &e%player%&r herein!' # "Hộ tống %player% vào trong!"
+  - 'Ebne den Weg für &e%player%&r!' # "San phẳng đường cho %player%!"
+  - 'Vorhang auf für &e%player%&r!' # "Mở màn cho %player%!"
+  - 'Entfache das Feuer für &e%player%&r!' # "Thắp lửa cho %player%!"
+  - 'Guten Tag, &e%player%&r!' # "Chào ngày mới tốt lành!"
+  - 'Einen wunderschönen guten Morgen, &e%player%&r!' # "Chào buổi sáng rực rỡ!"
+  - 'Nachtschicht für &e%player%&r!' # "Ca đêm cho %player%!"
+  - 'Morgengrauen für &e%player%&r!' # "Bình minh cho %player%!"
+  - 'Abendstimmung mit &e%player%&r!' # "Chill buổi tối cùng %player%!"
+  - 'Mittags-Wahnsinn mit &e%player%&r!' # "Sự điên rồ buổi trưa cùng %player%!"
+  - 'Schlaf wird überbewertet, oder &e%player%&r?' # "Ngủ nghê là tầm thường, đúng không %player%?"
+  - 'Früher Vogel &e%player%&r ist da!' # "Con chim sớm %player% đã có mặt!"
+  - 'Nachteule &e%player%&r ist gelandet!' # "Cú đêm %player% đã hạ cánh!"
+  - 'Schönen Montag, &e%player%&r!' # "Thứ Hai vui vẻ nhé!"
+  - 'Wochenend-Krieger &e%player%&r tritt bei!' # "Chiến binh cuối tuần %player% tham chiến!"
+  - 'Nachmittags-Snack: &e%player%&r!' # "Món ăn nhẹ buổi chiều: %player%!"
+  - 'Mitternachts-Räuber &e%player%&r!' # "Kẻ cướp đêm %player%!"
+  - 'Sonnenuntergangs-Session für &e%player%&r!' # "Buổi cày lúc hoàng hôn cho %player%!"
+  - 'Sonnenaufgangs-Start für &e%player%&r!' # "Khởi đầu lúc bình minh cho %player%!"
+  - 'Kaffeezeit, &e%player%&r!' # "Giờ cà phê thôi %player%!"
+  - 'Stoßzeit für &e%player%&r!' # "Giờ cao điểm cho %player%!"
+  - 'Starte den Tag mit &e%player%&r!' # "Bắt đầu ngày mới cùng %player%!"
+  - 'Beende den Tag mit &e%player%&r!' # "Kết thúc ngày dài cùng %player%!"
+  - 'Winterkälte für &e%player%&r!' # "Cái lạnh mùa đông cho %player%!"
+  - 'Sommerhitze für &e%player%&r!' # "Cái nóng mùa hè cho %player%!"
+  - 'Goldene Stunde für &e%player%&r!' # "Giờ vàng (Golden hour) cho %player%!"
+  - 'Täglicher Login für &e%player%&r!' # "Điểm danh hằng ngày cho %player%!"
+  - 'Zeitlose Legende &e%player%&r!' # "Huyền thoại bất tử %player%!"
+  - 'Eine neue Ära für &e%player%&r!' # "Kỷ nguyên mới cho %player%!"
+  - 'Neustart für &e%player%&r!' # "Khởi đầu mới cho %player%!"
+  - 'Viel Glück, &e%player%&r!' # "Chúc may mắn nhé %player%!"
+  
+# Format: Question
+  - 'Wie läuft’s, &e%player%&r?' # "Thế nào rồi, %player%?"
+  - 'Bereit zum Sieg, &e%player%&r?' # "Sẵn sàng thắng chưa?"
+  - 'Wer hat &e%player%&r eingeladen?' # "Ai mời khứa %player% này đấy?"
+  - 'Ist das der echte &e%player%&r?' # "Đây có phải %player% hàng thật giá đúng không?"
+  - 'Spürst du die Energie, &e%player%&r?' # "Thấy năng lượng sục sôi chưa?"
+  - 'Wo warst du so lange, &e%player%&r?' # "Ông đã đi đâu biệt tăm thế?"
+  - 'Bist du vorbereitet, &e%player%&r?' # "Chuẩn bị kỹ chưa?"
+  - 'Glaubst du, du überlebst das, &e%player%&r?' # "Nghĩ mình sống sót nổi không?"
+  - 'Was führt dich her, &e%player%&r?' # "Cơn gió nào đưa ông đến đây?"
+  - 'Fühlst du dich glücklich, &e%player%&r?' # "Thấy mình đỏ không?"
+  - 'Kann irgendwer &e%player%&r stoppen?' # "Có ai cản nổi ông không?"
+  - 'Ist die Welt bereit für &e%player%&r?' # "Thế giới đã sẵn sàng đón nhận %player% chưa?"
+  - 'Hat jemand nach &e%player%&r gerufen?' # "Có ai vừa gọi %player% à?"
+  - 'Warum so spät, &e%player%&r?' # "Sao muộn thế?"
+  - 'Bereit, Geschichte zu schreiben, &e%player%&r?' # "Sẵn sàng viết nên lịch sử chưa?"
+  - 'Hast du ein paar Tipps, &e%player%&r?' # "Có mẹo gì hay không?"
+  - 'Auf welcher Seite stehst du, &e%player%&r?' # "Ông thuộc phe nào đấy?"
+  - 'Soll das eine Herausforderung sein, &e%player%&r?' # "Đây là một lời thách thức à?"
+  - 'Fühlst du dich mutig, &e%player%&r?' # "Thấy mình dũng cảm không?"
+  - 'Ziehen wir das durch, &e%player%&r?' # "Làm tới luôn chứ?"
+  - 'Wer ist diese Legende? Etwa &e%player%&r?' # "Huyền thoại nào đây? Chẳng lẽ là %player%?"
+  
+  # Format: Exclaim
+  - 'Oh sieh mal! Es ist &e%player%&r!' # "Ô nhìn kìa! Là %player%!"
+  - 'Hurra! &e%player%&r ist da!' # "Hura! %player% tới rồi!"
+  - 'Pass auf! &e%player%&r ist gelandet!' # "Cẩn thận! %player% đã hạ cánh!"
+  - 'Huch! &e%player%&r ist zurück!' # "Á! %player% quay lại kìa!"
+  - 'Oh nein! Nicht schon wieder &e%player%&r!' # "Ôi không! Đừng lại là %player% chứ!" (Câu này hơi 'troll').
+  - 'Endlich! &e%player%&r hat sich blicken lassen!' # "Cuối cùng thì %player% cũng ló mặt ra!"
+  - 'Unglaublich! Es ist &e%player%&r!' # "Không thể tin được! Là %player%!"
+  - 'Achtung! Hier kommt &e%player%&r!' # "Chú ý! %player% đang tới!"
+  - 'Überraschung! &e%player%&r ist hier!' # "Bất ngờ chưa! %player% đây nè!"
+  - 'Wahnsinn! Hallo &e%player%&r!' # "Điên rồ thật! Chào nhé!"
+  - 'Schau! Oben am Himmel! Es ist &e%player%&r!' # "Nhìn kìa! Trên trời! Là %player%!"
+  - 'Aha! Wir haben &e%player%&r gefunden!' # "Aha! Tìm thấy %player% rồi nhé!"
+  - 'Warte mal! Ist das &e%player%&r?' # "Chờ chút! Có phải %player% đó không?"
+  - 'Juhu! &e%player%&r ist da!' # "Yippee! %player% tới rồi!"
+  - 'Aufgepasst! Es ist &e%player%&r!' # "Để ý này! Là %player% đó!"
+  - 'Achtung, Achtung! &e%player%&r ist eingetroffen!' # "Thông báo khẩn! %player% đã đến nơi!"
+  - 'Hört, hört! &e%player%&r nähert sich!' # "Nghe này! %player% đang tiến lại gần!"
+  - 'Klasse! &e%player%&r ist hier!' # "Hay quá! %player% đây rồi!"
+  - 'Genial! Es ist &e%player%&r!' # "Thiên tài! Chính là %player%!"
+  - 'Schau an, wer wieder da ist! &e%player%&r!' # "Xem ai quay lại kìa!"
+  - 'Nicht dein Ernst! &e%player%&r ist hier!' # "Không đùa chứ! %player% ở đây à!"
+  - 'Fantastisch! Hallo &e%player%&r!' # "Tuyệt vời! Chào nhé!"
+  - 'Heureka! &e%player%&r ist angekommen!' # "Tìm thấy rồi! %player% đã đến!"
+
+# Format: Special Emergence
+  - '&e%player%&r der Große ist erschienen!' # The Great
+  - '&e%player%&r der Hungrige ist erschienen!' # The Hungry
+  - '&e%player%&r der Bettler ist erschienen!' # The Beggar
+  - '&e%player%&r die Legende ist erschienen!' # The Legend
+  - '&e%player%&r der Schlaflose ist erschienen!' # The Sleep Deprived
+  - '&e%player%&r der Profi-Aufschieber ist erschienen!' # The Professional Procrastinator
+  - '&e%player%&r der Tastatur-Krieger ist erschienen!' # The Keyboard Warrior
+  - '&e%player%&r die verlorene Seele ist erschienen!' # The Lost Soul
+  - '&e%player%&r der Meister des Chaos ist erschienen!' # Master of Chaos
+  - '&e%player%&r der Tollpatsch ist erschienen!' # Accident Prone
+  - '&e%player%&r der Speedrunner (Gescheitert) ist erschienen!' # Speedrunner (Failed)
+  - '&e%player%&r die wandelnde Lootbox ist erschienen!' # The Walking Lootbox
+  - '&e%player%&r der Glitch-Finder ist erschienen!' # The Glitch Finder
+  - '&e%player%&r der Hauptcharakter ist erschienen!' # The Main Character
+  - '&e%player%&r der versehentliche Held ist erschienen!' # The Accidental Hero
+  - '&e%player%&r der Taktik-Genie (Zweifelhaft) ist erschienen!' # Tactical Genius (Doubtful)
+  - '&e%player%&r die Mode-Ikone ist erschienen!' # Fashion Icon
+  - '&e%player%&r der Salz-Minenarbeiter ist erschienen!' # Salt Miner (Dân hay quạu/salty)
+  - '&e%player%&r der Endboss ist erschienen!' # The Final Boss
+  - '&e%player%&r der Kaffee-Junkie ist erschienen!' # The Coffee Addict
+  - '&e%player%&r die unaufhaltsame Kraft ist erschienen!' # Unstoppable Force
+  - '&e%player%&r der Weltenbummler ist erschienen!' # Map Explorer
+  - '&e%player%&r der Lore-Jäger ist erschienen!' # Lore Hunter
+  - '&e%player%&r der absolute Brocken ist erschienen!' # The Absolute Unit
+
+
+
+commands:
+  # /home
+  home:
+    - '&e%player%&r, beam mich hoch, mami!' # "Bắn em về với mẹ đi!" (Chế từ Star Trek)
+    - '&e%player%&r, endlich wieder in der eigenen Bude!' # "Cuối cùng cũng về tới ổ!"
+    - '&e%player%&r, Trautes Heim, Glück allein!' # "Nhà mình là nhất!"
+    - '&e%player%&r, zurück in die Hood!' # "Về lại địa bàn!"
+    - '&e%player%&r, ab in die Haia!' # "Về đi ngủ thôi!"
+    - '&e%player%&r, Sip! Und schon bist du daheim!' # "Xẹt! Về tới nhà rồi!"
+    - '&e%player%&r, hoffentlich brennt noch Licht!' # "Hy vọng là chưa tắt điện!"
+    - '&e%player%&r, willkommen in deinem Revier!' # "Chào mừng về lại lãnh thổ!"
+
+  # /back
+  back:
+    - '&e%player%&r, spul die Zeit zurück!' # "Quay ngược thời gian nào!"
+    - '&e%player%&r, zurück an den Tatort!' # "Quay lại hiện trường vụ án!"
+    - '&e%player%&r, willst du es nochmal wissen?' # "Muốn thử lại lần nữa hả?"
+    - '&e%player%&r, zurück in die Vergangenheit!' # "Trở lại quá khứ!"
+    - '&e%player%&r, hast du da was vergessen?' # "Quên đồ ở đó hay gì?"
+    - '&e%player%&r, ab zu den alten Koordinaten!' # "Về lại tọa độ cũ!"
+    - '&e%player%&r, auf ein Neues!' # "Lại lần nữa nhé!"
+    - '&e%player%&r, zurück an die Front!' # "Quay lại tiền tuyến!"
+    - '&e%player%&r, und... Action! Wieder zurück!' # "Diễn... lại! Quay lại chỗ cũ!"
+    - '&e%player%&r, zurück zum letzten Punkt!' # "Về lại điểm cuối cùng!"
+
+  # /feed
+  feed:
+    - '&e%player%&r, dein Magen knurrt nicht mehr!' # "Bụng hết réo rồi nhé!"
+    - '&e%player%&r, Mahlzeit! Du bist satt!' # "Chén thôi! No căng rốn!"
+    - '&e%player%&r, kein Hungerleider mehr!' # "Không còn là kẻ chết đói nữa!"
+    - '&e%player%&r, magisch vollgestopft!' # "Đã được nhồi đầy bằng ma thuật!"
+    - '&e%player%&r, Energielevel: 100%!' # "Năng lượng: 100%!"
+    - '&e%player%&r, du bist kein Bettler mehr!' # "Hết kiếp ăn xin rồi nhé!"
+    - '&e%player%&r, Guten Appetit, du Vielfraß!' # "Ăn ngon nhé, đồ ham ăn!"
+    - '&e%player%&r, Hungerbalken: Vollgetankt!' # "Thanh thức ăn: Đã đổ đầy!"
+    - '&e%player%&r, ein kleiner Snack für zwischendurch!' # "Chút đồ ăn nhẹ giữa giờ!"
+    - '&e%player%&r, verhungern gestrichen!' # "Gạch tên khỏi danh sách chết đói!"
+
+  # /heal
+  heal:
+    - '&e%player%&r, wie neu geboren!' # "Như vừa được tái sinh!"
+    - '&e%player%&r, alle Wehwehchen sind weg!' # "Mọi vết thương đã biến mất!"
+    - '&e%player%&r, HP wieder voll am Start!' # "HP đã đầy bình!"
+    - '&e%player%&r, wieder fit für die Keile!' # "Lại khỏe để đi đấm nhau rồi!"
+    - '&e%player%&r, du strahlst ja richtig!' # "Trông ông tỏa sáng thế!"
+    - '&e%player%&r, maximale Power erreicht!' # "Đạt sức mạnh tối đa!"
+    - '&e%player%&r, kein roter Bildschirm mehr!' # "Hết màn hình đỏ rồi nhé!"
+    - '&e%player%&r, Vitalwerte im grünen Bereich!' # "Chỉ số sinh tồn đang ở vùng xanh!"
+    - '&e%player%&r, geflickt und fertig!' # "Đã khâu vá xong!"
+    - '&e%player%&r, der Doc war da!' # "Bác sĩ vừa ghé qua đấy!"
+
+  # /repair
+  repair:
+    - '&e%player%&r, glänzt wie eine Speckschwarte!' # "Bóng loáng như da lợn!" (Thành ngữ Đức chỉ sự bóng bẩy)
+    - '&e%player%&r, nichts mehr kaputt!' # "Không còn gì hỏng hóc nữa!"
+    - '&e%player%&r, wie frisch vom Schmied!' # "Như vừa mới ra lò rèn!"
+    - '&e%player%&r, mit Magie geflickt!' # "Vừa được vá bằng ma thuật!"
+    - '&e%player%&r, fast unzerstörbar!' # "Gần như bất tử rồi đấy!"
+    - '&e%player%&r, hab''s repariert, danke mir später!' # "Sửa xong rồi, cám ơn sau nhé!"
+    - '&e%player%&r, Werkzeug wieder fit!' # "Công cụ lại ngon lành!"
+
+  # /enderchest
+  enderchest:
+    - '&e%player%&r, Griff in die Unendlichkeit!' # "Chạm tay vào vô tận!"
+    - '&e%player%&r, dein Geheimversteck öffnet sich!' # "Mở kho báu bí mật!"
+    - '&e%player%&r, Zugriff auf das Ender-Netzwerk!' # "Truy cập mạng lưới Ender!"
+    - '&e%player%&r, was bunkerst du da drin?' # "Ông giấu gì trong đấy thế?"
+    - '&e%player%&r, dein Tresor ist offen!' # "Két sắt đã mở!"
+    - '&e%player%&r, die Leere flüstert...' # "Hư không đang thì thầm..."
+    - '&e%player%&r, Zeit für dein Geheimfach!' # "Đến giờ kiểm tra ngăn bí mật!"
+    - '&e%player%&r, Ender-Lager: Online!' # "Kho Ender: Trực tuyến!"
+    - '&e%player%&r, sicher im Nirgendwo!' # "An toàn ở một nơi xa xôi nào đó!"
+    - '&e%player%&r, suchst du was Bestimmtes?' # "Đang tìm cái gì đặc biệt hả?"
+
+  # /workbench
+  workbench:
+    - '&e%player%&r, Zeit zum Basteln!' # "Đến giờ nghịch ngợm đồ đạc rồi!"
+    - '&e%player%&r, die Werkstatt to go!' # "Xưởng làm việc di động đây!"
+    - '&e%player%&r, was zimmerst du heute?' # "Nay định đóng cái gì đấy?"
+    - '&e%player%&r, ans Werk, Schätzchen!' # "Làm việc đi cưng!"
+    - '&e%player%&r, das 3x3 Gitter wartet!' # "Ô 3x3 đang chờ ông đó!"
+    - '&e%player%&r, lass die Funken sprühen!' # "Làm cho tia lửa bắn ra đi!"
+    - '&e%player%&r, Ressourcen verballern!' # "Tiêu tốn tài nguyên thôi!"
+    - '&e%player%&r, Crafting-Modus: An!' # "Chế độ chế tạo: Bật!"
+    - '&e%player%&r, zeig mal deine Rezepte!' # "Cho xem công thức của ông nào!"
+    - '&e%player%&r, die Werkbank ist bereit!' # "Bàn chế tạo đã sẵn sàng!"
+
+  # /grindstone
+  grindstone:
+    - '&e%player%&r, weg mit dem Zauber-Kram!' # "Dẹp mấy cái phép thuật lằng nhằng đi!"
+    - '&e%player%&r, schärf mal deinen Blick!' # "Mài sắc cái nhìn của ông đi!"
+    - '&e%player%&r, her mit der Erfahrung!' # "Đưa kinh nghiệm đây nào!"
+    - '&e%player%&r, Tabula Rasa trên món đồ này!' # "Xóa sạch làm lại từ đầu!"
+    - '&e%player%&r, entzaubert und blank!' # "Giải thuật và trắng trơn!"
+    - '&e%player%&r, zurück auf Null!' # "Trở về số không!"
+    - '&e%player%&r, Magie ist für Anfänger!' # "Phép thuật chỉ dành cho gà thôi!"
+    - '&e%player%&r, lass die Steine mahlen!' # "Để đá nghiền nát nào!"
+    - '&e%player%&r, Platz für neue Verzauberungen!' # "Chừa chỗ cho phép thuật mới!"
+    - '&e%player%&r, einmal abschleifen, bitte!' # "Mài cho một phát nhé!"
+
+  # /smithingtable
+  smithingtable:
+    - '&e%player%&r, schmiede dein Schicksal!' # "Rèn nên vận mệnh của ông đi!"
+    - '&e%player%&r, mach''s legendär!' # "Làm cho nó trở nên huyền thoại!"
+    - '&e%player%&r, ein bisschen Style für die Rüstung!' # "Thêm chút phong cách cho giáp nào!"
+    - '&e%player%&r, der Meister-Schmied ist bereit!' # "Bậc thầy thợ rèn đã sẵn sàng!"
+    - '&e%player%&r, veredeln wir das Ganze!' # "Tinh luyện món này thôi!"
+    - '&e%player%&r, hau drauf auf das Eisen!' # "Quất mạnh vào sắt đi!"
+    - '&e%player%&r, ultimative Ausrüstung!' # "Trang bị tối thượng!"
+
+# /anvil
+  anvil:
+    - '&e%player%&r, Zeit zum Hämmern und Herrschen!' # Đến giờ nện búa và thống trị!
+    - '&e%player%&r, gib dem Ding einen coolen Namen!' # Đặt cho nó cái tên thật ngầu nào!
+    - '&e%player%&r, Kling Klang! Ab in die Reparatur!' # Keng keng! Đi sửa đồ thôi!
+    - '&e%player%&r, der Amboss wartet auf deinen Hammer!' # Đe đang đợi búa của ông đó!
+    - '&e%player%&r, mach es besser, stärker, schneller!' # Làm cho nó tốt hơn, mạnh hơn, nhanh hơn!
+    - '&e%player%&r, hier wird Großartiges geschmiedet!' # Sự vĩ đại đang được rèn tại đây!
+    - '&e%player%&r, Schwerstarbeit am Amboss!' # Làm việc nặng nhọc bên cái đe!
+
+  # /cartographytable
+  cartographytable:
+    - '&e%player%&r, vermiss die ganze Welt!' # Vẽ lại cả thế giới nào!
+    - '&e%player%&r, Zeit, deinen Horizont zu erweitern!' # Đến lúc mở rộng chân trời rồi!
+    - '&e%player%&r, verlauf dich bloß nicht!' # Đừng có mà đi lạc đấy!
+    - '&e%player%&r, kartiere das Unbekannte!' # Vẽ bản đồ những vùng đất chưa biết!
+    - '&e%player%&r, die Welt wird ein Stück kleiner!' # Thế giới nhỏ lại một chút rồi!
+    - '&e%player%&r, eine Karte für jedes Abenteuer!' # Mỗi cuộc phiêu lưu một tấm bản đồ!
+    - '&e%player%&r, der beste Freund eines Entdeckers!' # Bạn thân nhất của nhà thám hiểm!
+    - '&e%player%&r, dein Fortschritt ist nun amtlich!' # Tiến trình của ông đã được ghi lại!
+    - '&e%player%&r, wohin geht die Reise als Nächstes?' # Chuyến đi tiếp theo là đâu đây?
+
+  # /loom
+  loom:
+    - '&e%player%&r, webe ein paar schicke Muster!' # Dệt vài hoa văn sang chảnh nào!
+    - '&e%player%&r, zeig Flagge!' # Giương cao ngọn cờ của ông đi!
+    - '&e%player%&r, kreativ mit Fäden und Farbe!' # Sáng tạo với chỉ và màu sắc!
+    - '&e%player%&r, gestalte dein Vermächtnis!' # Thiết kế nên di sản của mình!
+    - '&e%player%&r, Banner für alle!' # Banner cho mọi nhà!
+    - '&e%player%&r, jetzt wird’s schick hier!' # Giờ thì trông sang chảnh rồi đấy!
+    - '&e%player%&r, die Mode-Industrie des Servers!' # Ngành công nghiệp thời trang của server!
+    - '&e%player%&r, komplizierte Designs am Start!' # Những thiết kế phức tạp lên sóng!
+    - '&e%player%&r, webe mir eine Geschichte!' # Dệt cho tôi một câu chuyện nào!
+    - '&e%player%&r, Zeit, die Base zu dekorieren!' # Đến lúc trang trí căn cứ rồi!
+
+  # /whisper
+  whisper:
+    - '&e%player%&r, psst... unter uns Gebetsschwestern!' # Suỵt... chuyện riêng của chúng ta thôi! (Thành ngữ Đức)
+    - '&e%player%&r, erzählst du mir Geheimnisse?' # Đang kể chuyện bí mật à?
+    - '&e%player%&r, flüstern ins Nichts!' # Thì thầm vào hư không!
+    - '&e%player%&r, hoffentlich ist das kein Tratsch!' # Hy vọng không phải là buôn chuyện!
+    - '&e%player%&r, ein privates Wort unter vier Augen!' # Một lời riêng tư chỉ hai người biết!
+    - '&e%player%&r, ganz diskret 1-zu-1!' # Rất kín đáo 1-đối-1!
+    - '&e%player%&r, Geheimagenten-Modus: Aktiv!' # Chế độ điệp viên: Kích hoạt!
+    - '&e%player%&r, streng geheim!' # Cực kỳ bí mật!
+    - '&e%player%&r, lass es den Server nicht hören!' # Đừng để cả server nghe thấy!
+    - '&e%player%&r, süße Worte ins Ohr!' # Những lời ngọt ngào rót vào tai!
+
+  # /daily
+  daily:
+    - '&e%player%&r, hol dir deinen täglichen Kram!' # Lấy đồ hằng ngày của ông đi!
+    - '&e%player%&r, Belohnung abholen!' # Nhận thưởng thôi!
+    - '&e%player%&r, danke fürs Vorbeischauen!' # Cám ơn vì đã lại ghé thăm!
+    - '&e%player%&r, hier ist deine tägliche Dosis Loot!' # Liều Loot hằng ngày của ông đây!
+    - '&e%player%&r, Dranbleiben lohnt sich!' # Kiên trì là có quà!
+    - '&e%player%&r, ein neuer Tag, ein neuer Loot!' # Ngày mới, loot mới!
+    - '&e%player%&r, die Serie bleibt am Leben!' # Chuỗi ngày điểm danh vẫn tiếp tục!
+    - '&e%player%&r, dein Care-Paket ist da!' # Gói cứu trợ hằng ngày đã tới!
+    - '&e%player%&r, bis morgen in aller Frische!' # Hẹn gặp lại ngày mai thật sảng khoái nhé!
+    - '&e%player%&r, täglicher Loot: Eingesackt!' # Loot hằng ngày: Đã bỏ túi!
+
+  tpa:
+    - '&e%player%&r sucht einen Kumpel zum Abhängen!' # Đang tìm cạ cứng để quẩy cùng!
+    - '&e%player%&r will bei jemandem mitmischen!' # Muốn tham gia cùng ai đó!
+    - '&e%player%&r schlägt eine Brücke zu einem Freund!' # Đang bắc cầu tới một người bạn!
+    - '&e%player%&r klopft an eine fremde Tür!' # Đang gõ cửa nhà người khác!
+    - '&e%player%&r braucht einen Tapetenwechsel!' # Cần thay đổi không khí chút!
+    - '&e%player%&r reicht einem Kameraden die Hand!' # Đang chìa tay ra với đồng đội!
+    - '&e%player%&r hat die Koffer gepackt zum Porten!' # Đã đóng gói hành lý để biến hình!
+    - '&e%player%&r bittet um eine Einladung!' # Đang xin một lời mời!
+    - '&e%player%&r will einmal blinzeln und verschwinden!' # Muốn chớp mắt một cái là biến mất!
+  
+  tp:
+    - '&e%player%&r erledigt Besorgungen für den Server!' # Đang đi lo việc cho server!
+    - '&e%player%&r checkt den Papierkram per Teleport!' # Dịch chuyển đi kiểm tra giấy tờ!
+    - '&e%player%&r macht einen Kontrollgang!' # Đang đi tuần tra kiểm soát!
+    - '&e%player%&r füllt die Magie des Servers auf!' # Đang nạp lại ma thuật cho server!
+    - '&e%player%&r ist auf Admin-Inspektion!' # Đang đi thanh tra Admin!
+    - '&e%player%&r hält die Zahnräder am Laufen!' # Đang giữ cho các bánh răng hoạt động!
+    - '&e%player%&r schaut mal nach dem Rechten!' # Đang đi xem mọi thứ có ổn không!
+    - '&e%player%&r macht die Welt ein Stück besser!' # Đang làm thế giới tốt đẹp hơn một chút!
+    - '&e%player%&r arbeitet hinter den Kulissen!' # Đang làm việc sau cánh gà!
+    - '&e%player%&r macht einen Abstecher ins Admin-Büro!' # Ghé qua văn phòng Admin chút!
+    - '&e%player%&r macht den Server-Haushalt!' # Đang làm việc nhà cho server!
+    - '&e%player%&r untersucht mysteriöse Anomalien!' # Đang điều tra các dị thường bí ẩn!
+    - '&e%player%&r sorgt für Recht und Ordnung!' # Đang giữ gìn công lý và trật tự!
+    - '&e%player%&r kümmert sich um die Technik!' # Đang lo phần kỹ thuật!
+    - '&e%player%&r ist im Admin-Modus unterwegs!' # Đang đi quanh trong chế độ Admin!
+    - '&e%player%&r erledigt die Schwerstarbeit woanders!' # Đang làm việc nặng ở chỗ khác!
+
+  stonecutter:
+    - '&e%player%&r meißelt ein Meisterwerk!' # Đang đục đẽo một kiệt tác!
+    - '&e%player%&r spielt Steinmetz!' # Đang đóng vai thợ đá!
+    - '&e%player%&r nimmt es ganz genau am Steinsäge!' # Đang cắt đá cực kỳ tỉ mỉ!
+    - '&e%player%&r macht aus Klötzen Kunst!' # Biến những khối đá thành nghệ thuật!
+    - '&e%player%&r passt auf seine Finger auf!' # Đang chú ý giữ gìn ngón tay!
+    - '&e%player%&r bastelt steinige Deko!' # Đang làm đồ trang trí bằng đá!
+    - '&e%player%&r formt die Welt Block für Block!' # Nhào nặn thế giới từng khối một!
+    - '&e%player%&r ist der Stein-Meister ohne Namen!' # Bậc thầy đá không tên!
+    - '&e%player%&r macht ein paar scharfe Anpassungen!' # Đang thực hiện vài điều chỉnh sắc bén!
+
+  tpspawn:
+    - '&e%player%&r, zurück zum Spawn!' # "Về lại điểm spawn!"
+    - '&e%player%&r, der Heimkehrer ist da!' # "Người trở về đã đến!"
+    - '&e%player%&r, willkommen zurück am Startpunkt!' # "Chào mừng trở lại điểm xuất phát!"
+    - '&e%player%&r, der Teleport zum Spawn ist vollzogen!' # "Đã teleport về spawn rồi!"
+    - '&e%player%&r, hier ist dein sicherer Hafen!' # "Đây là cảng an toàn của bạn!"
+    - '&e%player%&r, zurück in die Mitte des Geschehens!' # "Trở lại trung tâm của sự kiện!"
+    - '&e%player%&r, der Spawn erwartet dich!' # "Spawn đang chờ đón bạn!"
+
+death:
+    - '&e%player%&r hat ins Gras gebissen!' # Đã cắn cỏ rồi! (Thành ngữ Đức nghĩa là "ngỏm")
+    - '&e%player%&r wollte die Immunität testen. Test fehlgeschlagen!' # Định test bất tử à? Thất bại rồi nhé!
+    - '&e%player%&r macht ein Nickerchen für immer!' # Đang đi ngủ trưa vĩnh viễn!
+    - '&e%player%&r traf ein vorzeitiges Ende!' # Gặp một kết cục hơi sớm!
+    - '&e%player%&r hat das Zeitliche gesegnet!' # Đã ban phước cho thời gian! (Cách nói giảm nói tránh của "chết")
+    - '&e%player%&r wurde eins mit dem Boden!' # Đã hòa làm một với mặt đất!
+    - '&e%player%&r hat das Gebäude verlassen... für immer!' # Đã rời khỏi tòa nhà... mãi mãi!
+    - '&e%player%&r hatte keine gute Idee, sondern eine tote!' # Không phải ý hay, mà là ý chết! (Chơi chữ)
+    - '&e%player%&r ist jetzt ein Geist im System!' # Giờ là một bóng ma trong hệ thống!
+    - '&e%player%&r hatte kein Glück und dann kam auch noch Pech dazu!' # Đã không đỏ lại còn đen!
+
+nonop:
+  - '&e%player%&r, du hast hier nichts zu melden!' # Ông không có quyền lên tiếng ở đây!
+  - '&e%player%&r, sorry, aber das ist nichts für dich!' # Xin lỗi, cái này không dành cho ông!
+  - '&e%player%&r, Finger weg von diesem Befehl!' # Bỏ tay ra khỏi cái lệnh này ngay!
+  - '&e%player%&r, Zugriff verweigert, Schätzchen!' # Truy cập bị từ chối nhé cưng!
+  - '&e%player%&r, das darfst du nicht!' # Ông không được phép làm thế!
+  - '&e%player%&r, leider streng verboten für dich!' # Đáng tiếc là cấm tiệt đối với ông!
+  - '&e%player%&r, dir fehlen die nötigen Rechte!' # Ông thiếu quyền hạn cần thiết rồi!
+  - '&e%player%&r, dieser Befehl ist nur für die Bosse!' # Lệnh này chỉ dành cho sếp thôi!
+  - '&e%player%&r, du brauchst mehr Berechtigungen!' # Ông cần nhiều quyền hơn nữa!
+
+help:
+  - '&e%player%&r, hier ist eine Liste der verfügbaren Befehle!' # Đây là danh sách các lệnh có sẵn!
+  - '&e%player%&r, lass mich dir die Befehle zeigen!' # Để tôi chỉ cho bạn các lệnh nhé!
+  - '&e%player%&r, hier sind die Werkzeuge für dein Abenteuer!' # Đây là những công cụ cho cuộc phiêu lưu của bạn!
+  - '&e%player%&r, diese Befehle könnten nützlich sein!' # Những lệnh này có thể hữu ích đấy!
+  - '&e%player%&r, lass mich dir helfen, den Überblick zu behalten!' # Để tôi giúp bạn giữ được cái nhìn tổng quan nhé!
+  - '&e%player%&r, hier sind die Geheimwaffen für deinen Erfolg!' # Đây là những vũ khí bí mật cho sự thành công của bạn!
+  - '&e%player%&r, diese Befehle sind wie Zaubersprüche für dich!' # Những lệnh này như những câu thần chú dành cho bạn!

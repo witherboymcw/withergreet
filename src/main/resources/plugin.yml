@@ -1,0 +1,22 @@
+name: WitherGreet
+version: ${project.version}
+main: me.minh.withergreet.WitherGreet
+api-version: 1.20
+
+commands:
+  greet:
+    description: Send a greeting
+  hi:
+    description: Send a greeting
+  hello:
+    description: Send a greeting
+  tpspawn:
+    description: Teleports you to spawn
+
+  language:
+    description: Change language for yourself or others
+    usage: /language <language> | /language <player/@s/@p/@a> <language> | /language <player/@s/@p/@a> <what|current|info> | /language <player/@s/@p/@a> <player/@s/@p>
+
+  withergreet:
+    description: Main command for WitherGreet
+    usage: /withergreet <reload|help>
